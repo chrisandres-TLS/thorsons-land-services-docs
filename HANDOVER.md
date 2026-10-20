@@ -13,7 +13,7 @@ The name plays on Chris's grandmother's maiden name, **Thorson** ("Thor" + "Son"
 **Services** (for private and commercial landowners):
 - Stump grinding
 - Forestry mulching
-- Bush hogging
+- Brush hogging
 
 **Contact**
 - Phone: (803) 669-4954 (click-to-call on the site)
@@ -46,7 +46,7 @@ The name plays on Chris's grandmother's maiden name, **Thorson** ("Thor" + "Son"
 - `b2b-contact-list.md` — 39 target contacts in 6 categories (tree services, landscapers, fence companies, property management, builders/developers, municipalities).
 - `b2b-decision-makers.md` — 28 of 39 decision-makers identified by name and title (names/titles only; no personal emails harvested). Includes corrections to two stale municipal listings and flags on two possibly-closed businesses.
 - `b2b-call-scripts.md` — call scripts per category.
-- **First touch is a phone call** (public emails are scarce). Follow-up SMS template: "Hi [Name], this is Chris Andres with ThorSon's Land Services in Camden — veteran-owned stump grinding, mulching & bush hogging. Good speaking today! Free estimates anytime: (803) 669-4954."
+- **First touch is a phone call** (public emails are scarce). Follow-up SMS template: "Hi [Name], this is Chris Andres with ThorSon's Land Services in Camden — veteran-owned stump grinding, mulching & brush hogging. Good speaking today! Free estimates anytime: (803) 669-4954."
 - **Six email drafts** are saved in Chris's Gmail drafts (NOT in this repo — Gmail drafts can't transfer between accounts). Titles: "Stump grinding partner in Camden", "Site prep help for your landscaping jobs", "Fast fence-line clearing in Kershaw County", "Brush & stump maintenance for your properties", "Lot clearing for your builds", "Vendor introduction — ThorSon's Land Services". Recipients are placeholders — replace before sending.
 
 ## What's next (open items)

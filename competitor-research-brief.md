@@ -11,7 +11,7 @@
 | 4 | Wood Goat Vegetation Control Services | Lexington, SC | https://www.woodgoatforestry.com | Forestry mulching/land clearing; FAQ ("what to expect"), 3-step process (Tell Us About Your Land → Get A Quote → Watch Your Property Transform), owner story (Addison Corley, since 2021), service-area map, quick form + phone |
 | 5 | Arbor Elite Tree Service | Columbia, SC | https://arborelitesc.com | Tree service; since 2019 / 22 yrs experience, licensed & insured, free no-pressure estimates, 24/7 emergency, ~15 named testimonials, exhaustive town service-area list, family-owned |
 | 6 | Land Clearing Services Inc | Lugoff, SC | https://www.clearingandgrinding.com | Commercial land clearing; 19 yrs, fully insured, equipment list (grinders, excavators, dozers, mulchers), serves contractors/developers/governments across SE states |
-| 7 | Byron Hanna Lawn & Tractor | Ridgeway, SC | https://byronhannalawns.com | Bush hogging + grading; thin template site, phone-only CTA |
+| 7 | Byron Hanna Lawn & Tractor | Ridgeway, SC | https://byronhannalawns.com | Brush hogging + grading; thin template site, phone-only CTA |
 | 8 | Graves Arboriculture | Camden, SC | https://gravesarbor.com | Tree care; weak GoDaddy-template site with repetitive headings, "certified arborist" angle |
 | 9 | Carolina Stump Pros | West Columbia, SC | https://carolinastumppros.com (site blocked 403; reviewed via Google Business listing) | Stump grinding; Flowers family, serving Midlands since 1989 |
 
@@ -45,7 +45,7 @@
 - Make sure the click-to-call button is prominent and thumb-friendly on mobile (most "stump grinding near me" searches happen on phones).
 
 **Services**
-- Add "What affects your estimate" explainer under each service: stump grinding → stump diameter, number of stumps, access, cleanup/haul-off options; forestry mulching → acreage, vegetation density, terrain; bush hogging → acreage, overgrowth height, terrain. No competitor does this.
+- Add "What affects your estimate" explainer under each service: stump grinding → stump diameter, number of stumps, access, cleanup/haul-off options; forestry mulching → acreage, vegetation density, terrain; brush hogging → acreage, overgrowth height, terrain. No competitor does this.
 - Add a short FAQ per service modeled on Wood Goat: "How deep do you grind?", "What happens to the mulch/chips?", "Do I need to be home?", "How long does a typical job take?"
 
 **About Us**
